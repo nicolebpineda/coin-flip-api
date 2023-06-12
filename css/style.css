@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/********* Header *********/
+h1{
+  color: black;
+  font-size: 55px;
+  margin: 20px;
+}
+.firstHalfTitle {
+  color: rgb(237, 147, 114);
+}
+.secondHalfTitle {
+  color: rgb(109, 138, 172);
+}
+h2, h3 {
+  color: black;
+  font-size: 20px;
+}
+
+/********* Input & Button *********/
+button{
+  color: black;
+  background-color: rgb(157, 154, 154);
+}
+
+/********* Img & Results *********/
+img{
+  margin-top: 25px; 
+  height: 450px;
+}
+h2{
+  color: black;
+}
